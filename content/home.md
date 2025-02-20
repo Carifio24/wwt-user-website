@@ -50,8 +50,8 @@ The WWT ecosystem includes a [Windows application][windows-client], an
 <b>Discover the oscillating Radcliffe Wave!</b> Using WWT, it can be viewed in both 2D and 3D.
 {% end %}
 
-{% card(text="Revisit the eclipse", url="https://projects.cosmicds.cfa.harvard.edu/solar-eclipse-2024/", html=1, targetblank=1) %}
-<b>Want to revisit the solar eclipse?</b> WWT lets you see how it looked all over the world!
+{% card(text="Watch the parade!" url="https://projects.cosmicds.cfa.harvard.edu/planet-parade/", html=1, targetblank=1) %}
+<b>See multiple planets in the sky at once!</b> See where the planets will be using WWT.
 {% end %}
 
 {% card(text="To the Moon!", url="https://web.wwtassets.org/specials/2021/iotmn/", html=1, targetblank=1) %}
